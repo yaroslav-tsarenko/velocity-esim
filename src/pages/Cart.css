@@ -1,0 +1,141 @@
+.background-parent {
+  align-self: stretch;
+  height: 222.4px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.item-link,
+.item-link1 {
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+}
+.item-link {
+  font-size: 12.3px;
+  color: inherit;
+  text-decoration: none;
+  min-width: 73px;
+}
+.item-link1 {
+  min-width: 34px;
+}
+.item-link2 {
+  text-decoration: none;
+  font-size: 12.4px;
+  line-height: 17px;
+  color: inherit;
+  min-width: 85px;
+}
+.item-link2,
+.item-link3,
+.item-link4,
+.item-link5 {
+  position: relative;
+  display: inline-block;
+}
+.item-link3 {
+  flex: 1;
+  font-size: 12.1px;
+  line-height: 16.1px;
+  min-width: 119.9px;
+}
+.item-link4,
+.item-link5 {
+  line-height: 17px;
+}
+.item-link4 {
+  font-size: 12.5px;
+  min-width: 83px;
+}
+.item-link5 {
+  min-width: 104px;
+}
+.item-link6 {
+  width: 79.5px;
+  position: relative;
+  font-size: 13px;
+  line-height: 16.1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 79.5px;
+}
+.container,
+.nav-menu-list {
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.nav-menu-list {
+  height: 16.1px;
+  width: 666px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 6px;
+  gap: 12.5px;
+}
+.container {
+  width: 1200px;
+  justify-content: center;
+  padding: 6.9px 20px 24px;
+}
+.background,
+.cart,
+.container,
+.footer-web {
+  display: flex;
+  align-items: flex-start;
+}
+.background {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 15px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.cart,
+.footer-web {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer-web {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: center;
+  font-size: 12.7px;
+  color: #fff;
+  font-family: Verdana;
+}
+.cart {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .background-parent {
+    height: auto;
+    min-height: 222.4000000000001;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .cart {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cart {
+    gap: 30px;
+  }
+}

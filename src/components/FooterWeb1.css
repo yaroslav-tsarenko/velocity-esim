@@ -1,0 +1,117 @@
+.background-parent8 {
+  align-self: stretch;
+  height: 222.4px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.item-link60 {
+  position: relative;
+  font-size: 12.3px;
+  line-height: 17px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 73px;
+}
+.item-link61 {
+  line-height: 17px;
+  min-width: 34px;
+}
+.item-link61,
+.item-link62,
+.item-link63 {
+  position: relative;
+  display: inline-block;
+}
+.item-link62 {
+  text-decoration: none;
+  font-size: 12.4px;
+  line-height: 17px;
+  color: inherit;
+  min-width: 85px;
+}
+.item-link63 {
+  flex: 1;
+  font-size: 12.1px;
+  line-height: 16.1px;
+  min-width: 119.9px;
+}
+.item-link64,
+.item-link65 {
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+}
+.item-link64 {
+  font-size: 12.5px;
+  min-width: 83px;
+}
+.item-link65 {
+  min-width: 104px;
+}
+.item-link66 {
+  width: 79.5px;
+  position: relative;
+  font-size: 13px;
+  line-height: 16.1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 79.5px;
+}
+.nav-menu-list9 {
+  height: 16.1px;
+  width: 666px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 6px;
+  box-sizing: border-box;
+  gap: 12.5px;
+}
+.background32,
+.container19,
+.footer-web4,
+.nav-menu-list9 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.container19 {
+  width: 1200px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6.9px 20px 24px;
+  box-sizing: border-box;
+}
+.background32,
+.footer-web4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.background32 {
+  background-color: #000;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 15px;
+  box-sizing: border-box;
+}
+.footer-web4 {
+  flex-direction: column;
+  justify-content: flex-start;
+  z-index: 1;
+  margin-top: -0.1px;
+  text-align: center;
+  font-size: 12.7px;
+  color: #fff;
+  font-family: Verdana;
+}
+@media screen and (max-width: 1200px) {
+  .background-parent8 {
+    height: auto;
+    min-height: 222.4000000000001;
+  }
+}

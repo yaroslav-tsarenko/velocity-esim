@@ -1,0 +1,93 @@
+.embark-on-a2,
+.journey2 {
+  margin: 0;
+}
+.heading-3-container5 {
+  width: 100%;
+}
+.delve-into-a2,
+.heading-3-container4 {
+  margin: 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.heading-3-container4 {
+  width: 386px;
+  font-size: inherit;
+  letter-spacing: -1px;
+  line-height: 48.3px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.delve-into-a2 {
+  width: 416px;
+  font-size: 15.3px;
+  line-height: 20.7px;
+}
+.background22 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 52.6px 20px 281px 64px;
+  box-sizing: border-box;
+  gap: 29px;
+  min-width: 386px;
+  min-height: 564px;
+  max-width: 100%;
+}
+.gomoworld-website-imagefiles-d-icon3 {
+  width: 564px;
+  position: relative;
+  border-radius: 24px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.background-parent4 {
+  width: 1185px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 34px;
+  color: #fff;
+  font-family: Verdana;
+}
+@media screen and (max-width: 1050px) {
+  .heading-3-container4 {
+    font-size: 27px;
+    line-height: 39px;
+  }
+  .gomoworld-website-imagefiles-d-icon3 {
+    flex: 1;
+  }
+  .background-parent4 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .background22 {
+    padding-left: 32px;
+    padding-top: 34px;
+    padding-bottom: 183px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-3-container4 {
+    font-size: 20px;
+    line-height: 29px;
+  }
+}

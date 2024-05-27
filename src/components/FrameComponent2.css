@@ -1,0 +1,259 @@
+.how-it-works-header,
+.how-velocitysim-works1 {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.how-velocitysim-works1 {
+  width: 843px;
+  position: relative;
+  letter-spacing: -2px;
+  line-height: 68px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.how-it-works-header {
+  width: 1101.8px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.gomoworld-icons-fa2-01-2048x201 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gomoworld-icons-fa2-01-2048x202 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 1;
+}
+.step-item {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.heading-44 {
+  position: relative;
+  line-height: 27.6px;
+}
+.unlock-a-world1 {
+  margin: 0;
+}
+.head-to-the-container3 {
+  width: 100%;
+}
+.head-to-the-container2 {
+  width: 299.1px;
+  position: relative;
+  font-size: 15.5px;
+  line-height: 20.7px;
+  display: flex;
+  align-items: center;
+}
+.steps-container,
+.steps-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.5px;
+}
+.steps-container {
+  gap: 28.8px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.gomoworld-icons-fa2-03-2048x201,
+.gomoworldwebsite-device-fapng-icon1 {
+  height: 565.1px;
+  width: 280px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.gomoworld-icons-fa2-03-2048x201 {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+}
+.heading-45 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27.6px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.below1,
+.details-on-this1,
+.from-here-follow1,
+.screen-to-install1 {
+  display: block;
+}
+.from-here-follow-container1 {
+  margin: 0;
+  position: relative;
+  line-height: 20.7px;
+}
+.gomoworld-icons-fa2-04-2048x201 {
+  height: 121.1px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.substep-icon {
+  width: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 7.1px;
+  box-sizing: border-box;
+}
+.heading-46 {
+  position: relative;
+  line-height: 27.6px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.app-and-go1,
+.country-tap-to1,
+.once-you-reach1 {
+  display: block;
+}
+.once-you-reach-container1 {
+  margin: 0;
+  position: relative;
+  font-size: 15.9px;
+  line-height: 20.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.step-description,
+.step-item2 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.step-item2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 15.2px;
+  font-size: 18.8px;
+}
+.step-description {
+  gap: 8.2px;
+  font-size: 15.3px;
+}
+.how-it-works-steps,
+.step-description,
+.step-item1 {
+  display: flex;
+  align-items: flex-start;
+}
+.step-item1 {
+  width: 296.8px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15.2px;
+  font-size: 18px;
+}
+.how-it-works-steps {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 18.9px;
+  color: #292929;
+}
+.button7 {
+  height: 54px;
+  width: 192.3px;
+}
+.setup-video-button-container {
+  width: 1103px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.how-it-works-content1 {
+  width: 1136.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 47.8px;
+  max-width: 100%;
+}
+.how-it-works-content-container {
+  width: 1886.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 63.3px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 53.8px;
+  color: #06f;
+  font-family: Verdana;
+}
+@media screen and (max-width: 1350px) {
+  .how-it-works-steps {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 925px) {
+  .how-velocitysim-works1 {
+    font-size: 43px;
+    line-height: 54px;
+  }
+  .how-it-works-content1 {
+    gap: 24px;
+  }
+  .how-it-works-content-container {
+    padding-bottom: 41px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-velocitysim-works1 {
+    font-size: 32px;
+    line-height: 41px;
+  }
+  .how-it-works-content-container {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

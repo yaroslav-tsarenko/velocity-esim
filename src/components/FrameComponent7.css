@@ -1,0 +1,314 @@
+.sign-up,
+.sign-up-to {
+  align-self: stretch;
+  position: relative;
+}
+.sign-up {
+  line-height: 110%;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.sign-up-to {
+  height: 44px;
+  font-size: 16px;
+  letter-spacing: -0.11px;
+  line-height: 135%;
+  color: #1c1c1c;
+  display: inline-block;
+}
+.sign-up-title {
+  width: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.your-name {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 89px;
+}
+.name-address-username-inputs {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 10px;
+  min-width: 159px;
+  white-space: nowrap;
+}
+.email {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 45px;
+}
+.email-country-password-fields {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+}
+.name-address-username-fields {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.address {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.address-wrapper {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+}
+.country1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 64px;
+}
+.email-country-password-placeho {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.country-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username-fields1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.username {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 82px;
+}
+.name-address-username-placehol {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.password1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Verdana;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 76px;
+}
+.frame-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.password-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username-fields2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.button8 {
+  align-self: stretch;
+  height: 38px;
+}
+.input-fields1 {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-up {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #000;
+  display: inline-block;
+  min-width: 127px;
+}
+.social-icons3,
+.social-icons4,
+.social-icons5 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.social-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.sign-in-container,
+.sign-in2 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sign-in2 {
+  width: 573px;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 92px 36px;
+  gap: 36px;
+}
+.sign-in-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  text-align: center;
+  font-size: 64px;
+  color: #06f;
+  font-family: Verdana;
+}
+@media screen and (max-width: 1050px) {
+  .sign-up {
+    font-size: 51px;
+    line-height: 56px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .sign-in2 {
+    gap: 18px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-up {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .button8 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

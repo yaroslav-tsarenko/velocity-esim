@@ -1,0 +1,42 @@
+.background-parent,
+.faq {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-parent {
+  align-self: stretch;
+  height: 1324px;
+  flex-shrink: 0;
+  padding: 0 0 768.9px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.faq {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .background-parent {
+    padding-bottom: 500px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .background-parent {
+    padding-bottom: 325px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background-parent {
+    height: auto;
+    padding-bottom: 211px;
+    box-sizing: border-box;
+  }
+}

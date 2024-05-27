@@ -1,0 +1,392 @@
+.content-wrapper {
+  width: 1170px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.share-this-article {
+  position: relative;
+  line-height: 21px;
+}
+.share-title-content {
+  width: 1080.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: #292929;
+}
+.symbol {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 15px;
+}
+.item-link {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 16px 15px;
+}
+.symbol1 {
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 18.3px;
+}
+.item-link1 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 14px 15px 15px;
+}
+.symbol2 {
+  flex: 1;
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 16.1px;
+}
+.item-link2 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  justify-content: flex-start;
+  padding: 14px 15px 15px 16px;
+}
+.item-link2,
+.social-icons,
+.social-icons-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.social-icons-list {
+  width: 176px;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.social-icons {
+  width: 1080px;
+  justify-content: center;
+  padding: 0 20px;
+  font-size: 18px;
+  font-family: Poppins;
+}
+.separator,
+.separator-wrapper,
+.social-icons {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.separator {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.separator-wrapper {
+  width: 1080px;
+  height: 80.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 27px;
+}
+.icon {
+  height: 52px;
+  width: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.return-to-blog {
+  align-self: stretch;
+  position: relative;
+  line-height: 20.7px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 115.4px;
+}
+.link,
+.return-to-blog-wrapper {
+  width: 115.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 12px;
+  box-sizing: border-box;
+}
+.link {
+  width: 305.3px;
+  border-radius: 24px;
+  background-color: #06f;
+  border: 1px solid #06f;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 46px 49px 54px;
+  gap: 16px;
+  min-width: 305.3000000000029px;
+}
+.travel-stories {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 14px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 96.4px;
+}
+.where-in-the {
+  position: relative;
+  font-size: 20.4px;
+  letter-spacing: -2px;
+  line-height: 28.8px;
+  color: #292929;
+}
+.article-link1 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #fff;
+  border: 1px solid #b8b8b8;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 20px 71px 25px;
+  gap: 16px;
+  min-width: 504px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 10.1px;
+  color: #06f;
+}
+.article-link {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 30px;
+  font-size: 14.1px;
+}
+.article-link,
+.share-content,
+.share-title-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.share-title-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.share-content {
+  width: 1140px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.embark-on-a,
+.journey {
+  margin: 0;
+}
+.heading-3-container1 {
+  width: 100%;
+}
+.delve-into-a,
+.heading-3-container {
+  margin: 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.heading-3-container {
+  width: 386px;
+  font-size: inherit;
+  letter-spacing: -1px;
+  line-height: 48.3px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.delve-into-a {
+  width: 416px;
+  font-size: 15.3px;
+  line-height: 20.7px;
+}
+.background1 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 52.6px 20px 281px 64px;
+  box-sizing: border-box;
+  gap: 29px;
+  min-width: 386px;
+  min-height: 564px;
+  max-width: 100%;
+}
+.gomoworld-website-imagefiles-d-icon {
+  width: 564px;
+  position: relative;
+  border-radius: 24px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.download-cta {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 34px;
+}
+.background,
+.share,
+.techinaltrends {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.share {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 107.7px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 15.8px;
+  color: #fff;
+  font-family: Verdana;
+}
+.background,
+.techinaltrends {
+  box-sizing: border-box;
+}
+.background {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: flex-end;
+  padding: 63.9px 375px 128px 360px;
+  gap: 199.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.techinaltrends {
+  width: 100%;
+  height: 4841px;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  align-items: flex-start;
+  padding: 0 0 769.3px;
+  gap: 0.2px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .link {
+    flex: 1;
+  }
+  .article-link1 {
+    min-width: 100%;
+  }
+  .article-link {
+    flex-wrap: wrap;
+  }
+  .background1 {
+    min-width: 100%;
+  }
+  .gomoworld-website-imagefiles-d-icon {
+    flex: 1;
+  }
+  .download-cta {
+    flex-wrap: wrap;
+  }
+  .share {
+    gap: 54px;
+  }
+  .background {
+    padding-top: 27px;
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .background {
+    gap: 100px;
+    padding: 20px 187px 35px 180px;
+    box-sizing: border-box;
+  }
+  .techinaltrends {
+    height: auto;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-3-container {
+    font-size: 27px;
+    line-height: 39px;
+  }
+  .background1 {
+    padding-left: 32px;
+    padding-top: 34px;
+    padding-bottom: 183px;
+    box-sizing: border-box;
+  }
+  .share {
+    gap: 27px;
+  }
+  .background {
+    gap: 50px;
+    padding-left: 90px;
+    padding-right: 93px;
+    padding-bottom: 23px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .where-in-the {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .heading-3-container {
+    font-size: 20px;
+    line-height: 29px;
+  }
+}

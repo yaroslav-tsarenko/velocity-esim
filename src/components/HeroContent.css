@@ -1,0 +1,410 @@
+.americajpg-icon1 {
+  width: 467.3px;
+  position: relative;
+  border-radius: 24px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.esim-for {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 66px;
+}
+.heading-11 {
+  position: relative;
+  font-size: 33.5px;
+  letter-spacing: -2px;
+  line-height: 63px;
+  color: #06f;
+  margin-top: -0.5px;
+}
+.hero-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about,
+.strong-get {
+  position: relative;
+  line-height: 21px;
+}
+.about {
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 45px;
+}
+.about-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 15px 0 16px;
+}
+.horizontal-divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: #6600c6;
+}
+.tab {
+  height: 33px;
+  width: 78.2px;
+  border-radius: 4px;
+  background-color: #6600c6;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 1px 4px;
+  box-sizing: border-box;
+  gap: 4px;
+  color: #fff;
+}
+.tab-how {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 125px;
+}
+.tab-headers {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 16px 4px 0;
+  font-size: 13.9px;
+}
+.tab-compatibility {
+  position: relative;
+  line-height: 24px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 96.2px;
+}
+.tab-headers1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 4px;
+  font-size: 14.5px;
+}
+.data-offer,
+.tablist {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.tablist {
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 4px;
+  gap: 16.9px;
+  font-size: 15px;
+}
+.data-offer {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 8.9px;
+  gap: 23.1px;
+  font-size: 14.1px;
+}
+.moment-you-arrive,
+.velocitysim-is-a,
+.wherever-you-go {
+  display: block;
+}
+.velocitysim-is-a-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.contract-and-no,
+.high-data-roaming,
+.simply-download-your,
+.velocitysim-travel-esim {
+  display: block;
+}
+.simply-download-your-container {
+  margin: 0;
+  height: 96px;
+  position: relative;
+  font-size: 13.9px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-description,
+.description-paragraph {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.description-paragraph {
+  flex-direction: column;
+  gap: 16px;
+}
+.app-description {
+  flex-direction: row;
+  padding: 0 19px 24.9px;
+  box-sizing: border-box;
+  font-size: 13.6px;
+}
+.heading-12 {
+  position: relative;
+  letter-spacing: -2px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.gb-for-1999 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 127px;
+}
+.plan-option-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 50px 0 51px;
+}
+.separator {
+  align-self: stretch;
+  height: 2px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+}
+.buy-now,
+.icon8,
+.separator {
+  position: relative;
+}
+.icon8 {
+  height: 16px;
+  width: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buy-now {
+  flex: 1;
+  line-height: 19.2px;
+}
+.button9 {
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.4px 50px 6.6px;
+  gap: 8px;
+  font-size: 14.4px;
+}
+.all-plans-have {
+  flex: 1;
+  position: relative;
+  line-height: 21px;
+}
+.plan-option-descriptions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 39px;
+  font-size: 10.1px;
+}
+.background29 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #06f;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 24px 24px 24.5px;
+  box-sizing: border-box;
+  gap: 15.8px;
+  min-width: 208px;
+}
+.gb-for-399 {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 109px;
+}
+.gb-for-399-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 59px 0 60px;
+}
+.separator1 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.icon9 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buy-now1 {
+  flex: 1;
+  position: relative;
+  line-height: 19.2px;
+}
+.button10 {
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.4px 50px 6.6px;
+  gap: 8px;
+  font-size: 14.4px;
+}
+.all-plans-have1 {
+  position: relative;
+  line-height: 21px;
+}
+.all-plans-have-a-7-day-cycle-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 42px 0 43px;
+  font-size: 10.1px;
+}
+.background30,
+.plan-options {
+  display: flex;
+  justify-content: flex-start;
+}
+.background30 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #f5f5f5;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 24px;
+  box-sizing: border-box;
+  gap: 16px;
+  min-width: 208px;
+  font-size: 15.8px;
+  color: #000;
+}
+.plan-options {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+  text-align: center;
+  font-size: 15.5px;
+  color: #fff;
+}
+.heading-1-get-connected-parent {
+  width: 586px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 19.5px;
+  color: #000;
+}
+.heading-1-get-connected-parent,
+.hero-content,
+.hero-description,
+.hero-image {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.hero-description {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8.1px;
+  min-width: 418px;
+}
+.hero-content,
+.hero-image {
+  flex-direction: row;
+}
+.hero-image {
+  width: 1140.1px;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.hero-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 132.4px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 15.3px;
+  color: #292929;
+  font-family: Verdana;
+}
+@media screen and (max-width: 1050px) {
+  .americajpg-icon1 {
+    flex: 1;
+  }
+  .heading-11 {
+    font-size: 27px;
+    line-height: 50px;
+  }
+  .hero-image {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .plan-options {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .hero-description {
+    min-width: 100%;
+  }
+  .hero-content {
+    padding-bottom: 86px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-11 {
+    font-size: 20px;
+    line-height: 38px;
+  }
+  .hero-content {
+    padding-bottom: 56px;
+    box-sizing: border-box;
+  }
+}
